@@ -6,8 +6,8 @@
 
 ## Rust
 - [raft key value store](https://github.com/fuyofulo/raft_kv) - A distributed key-value store implementing the Raft consensus protocol from first principles.
-- [TiCTacToe](https://github.com/fuyofulo/tictactoe) - A simple interactive Tic-Tac-Toe game demonstrating basic game logic and state management.
+- [Tic Tac Toe](https://github.com/fuyofulo/tictactoe) - A simple interactive Tic-Tac-Toe game demonstrating basic game logic and state management.
 
 ## Full Stack
-- [exness](https://github.com/fuyofulo/exness) - A high-performance, real-time trading exchange built with modern technologies, featuring CFD (Contract for Difference) trading with leverage and automated liquidation systems.
+- [Exness](https://github.com/fuyofulo/exness) - A high-performance, real-time trading exchange built with modern technologies, featuring CFD (Contract for Difference) trading with leverage and automated liquidation systems.
 - [Booking System](https://github.com/fuyofulo/booking-system) - Full-stack booking platform with reservation management, scheduling, and user workflows with custom MCP server. 
