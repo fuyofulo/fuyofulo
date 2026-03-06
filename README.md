@@ -11,3 +11,5 @@
 ## Full Stack
 - [Exness](https://github.com/fuyofulo/exness) - A high-performance, real-time trading exchange built with modern technologies, featuring CFD (Contract for Difference) trading with leverage and automated liquidation systems.
 - [Booking System](https://github.com/fuyofulo/booking-system) - Full-stack booking platform with reservation management, scheduling, and user workflows with custom MCP server. 
+- [Room Chat](https://github.com/fuyofulo/chat-application) - A modern real-time chat application that allows users to create and join chat rooms for instant messaging. Built with cutting-edge technologies and a clean, responsive design.
+
