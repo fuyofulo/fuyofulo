@@ -1,5 +1,5 @@
 ## Solana
-- [Axoria](https://github.com/fuyofulo/stablecoin_infra) (🟡 building) - Reconciliation layer for stablecoin payments on Solana. 
+- [Axoria](https://github.com/fuyofulo/stablecoin_infra) - Payouts and collections infrastructure for stablecoin teams, built around deterministic workflows, on-chain reconciliation, and proof-backed USDC movement on Solana. 
 - [Meteora DLMM Indexer](https://github.com/fuyofulo/meteora_dlmm_indexer) - Real time Solana DLMM data platform: Yellowstone ingestion, IDL-driven decoding, ClickHouse event storage, Redis stream signaling, and a Rust backend powering live analytics.
 - [Hedge fund Solana Program](https://github.com/fuyofulo/hedgefund-as-a-service) - Solana Anchor program that enables pooled on chain capital management with deposits, withdrawals, and strategy-driven trading.
 - [Pumpswap Trades Indexer](https://github.com/fuyofulo/pumpswap-trades-indexer) - Low-latency Rust indexer that parses PumpSwap trades from Solana and stores structured swap data for analytics and research.
