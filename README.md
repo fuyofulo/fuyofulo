@@ -1,5 +1,5 @@
 ## Solana
-- [Decimal](https://github.com/fuyofulo/stablecoin_infra) - Payouts and collections infrastructure for stablecoin teams, built around deterministic workflows, on-chain reconciliation, and proof-backed USDC movement on Solana. 
+- [Decimal](https://github.com/fuyofulo/stablecoin_infra) - Decimal is a finance operator for businesses paying globally. Multisig treasuries powered by Squads on Solana, embedded Privy wallets for every team member, and USDC rails for payouts. Drop in an invoice, AI extracts the details and creates a payment proposal, your team approves via multisig, and Decimal wires the money straight to your vendor's bank account. Live on devnet at decimal.finance.
 - [Meteora DLMM Indexer](https://github.com/fuyofulo/meteora_dlmm_indexer) - Real time Solana DLMM data platform: Yellowstone ingestion, IDL-driven decoding, ClickHouse event storage, Redis stream signaling, and a Rust backend powering live analytics.
 - [Hedge fund Solana Program](https://github.com/fuyofulo/hedgefund-as-a-service) - Solana Anchor program that enables pooled on chain capital management with deposits, withdrawals, and strategy-driven trading.
 - [Pumpswap Trades Indexer](https://github.com/fuyofulo/pumpswap-trades-indexer) - Low-latency Rust indexer that parses PumpSwap trades from Solana and stores structured swap data for analytics and research.
