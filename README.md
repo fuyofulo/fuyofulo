@@ -10,7 +10,7 @@ Currently exploring fintech and accounts payable with **[Decimal](https://decima
 - [Decimal](https://github.com/decimalfinance/decimal) - AI-powered accounts payable. AI reads a vendor invoice, codes it, and routes it for approval, then pays in USDC from a Squads v4 multisig. An agent handles bills that fit a code-enforced spending limit and everything else falls back to a multisig proposal, so payment rules are enforced on-chain, not in the backend. Live on devnet at [decimal.finance](https://decimal.finance).
 - [Meteora DLMM Indexer](https://github.com/fuyofulo/meteora_dlmm_indexer) - Real-time Solana DLMM data platform: Yellowstone ingestion, IDL-driven decoding, ClickHouse event storage, Redis stream signaling, and a Rust backend powering live analytics.
 - [Hedge Fund Solana Program](https://github.com/fuyofulo/hedgefund-as-a-service) - Anchor program for pooled on-chain capital management: deposits, NAV-based shares, and strategy-driven trading with whitelists and keeper execution.
-- [PumpSwap Trades Indexer](https://github.com/fuyofulo/pumpswap-trades-indexer) - Low-latency Rust indexer that parses PumpSwap trades and stores structured swap data for analytics.
+- [PumpSwap Trades Indexer](https://github.com/fuyofulo/pumpswap-trades-indexer) - Rust indexer that subscribes to PumpSwap activity over Yellowstone gRPC, decodes buys and sells by instruction discriminator, and computes live token prices from pool reserves.
 
 ## Rust
 
