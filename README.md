@@ -1,5 +1,4 @@
 Hey, I'm Zaid. I've built projects across distributed systems, real-time indexers, trading systems, and Solana programs.
-
 Currently exploring fintech and accounts payable with **[Decimal](https://decimal.finance)**, an AI-powered AP product built on Solana.
 
 - Solana India Fellowship 2025 (Superteam India), graduated top 20
