@@ -1,6 +1,6 @@
-Hey, I'm Zaid. I'm a developer who codes in Rust and TypeScript, mostly on Solana.
+Hey, I'm Zaid. I code in Rust and TypeScript, and I've built projects across distributed systems, real-time indexers, trading systems, and Solana programs.
 
-Currently building **[Decimal](https://decimal.finance)**, AI-powered accounts payable on Solana.
+Currently exploring fintech and accounts payable with **[Decimal](https://decimal.finance)**, an AI-powered AP product built on Solana.
 
 - Solana India Fellowship 2025 (Superteam India), graduated top 20
 - Rektoff Solana Security Bootcamp, strongest audit report in cohort 3
