@@ -1,4 +1,4 @@
-Hey, I'm Zaid. I build payment products and infrastructure on Solana. I code in Rust and TypeScript.
+Hey, I'm Zaid. I'm a developer who codes in Rust and TypeScript, mostly on Solana.
 
 Currently building **[Decimal](https://decimal.finance)**, AI-powered accounts payable on Solana.
 
