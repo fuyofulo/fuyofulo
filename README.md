@@ -1,4 +1,4 @@
-Hey, I'm Zaid. I code in Rust and TypeScript, and I've built projects across distributed systems, real-time indexers, trading systems, and Solana programs.
+Hey, I'm Zaid. I've built projects across distributed systems, real-time indexers, trading systems, and Solana programs.
 
 Currently exploring fintech and accounts payable with **[Decimal](https://decimal.finance)**, an AI-powered AP product built on Solana.
 
