@@ -4,6 +4,10 @@ Currently exploring fintech and accounts payable with **[Decimal](https://github
 - Solana India Fellowship 2025 (Superteam India), graduated top 20
 - Rektoff Solana Security Bootcamp, strongest audit report in cohort 3
 
+## Now
+
+- [Decimal](https://github.com/decimalfinance/decimal) - Accounts payable with AI agents built into the work. It reads each vendor bill, investigates duplicates and figures that don't add up, routes the bill through approval rules the admins draw, and posts it to QuickBooks or Xero once it's approved. A person checks every bill.
+
 ## Solana
 
 - [Meteora DLMM Indexer](https://github.com/fuyofulo/meteora_dlmm_indexer) - Real-time Solana DLMM data platform: Yellowstone ingestion, IDL-driven decoding, ClickHouse event storage, Redis stream signaling, and a Rust backend powering live analytics.
@@ -17,7 +21,6 @@ Currently exploring fintech and accounts payable with **[Decimal](https://github
 
 ## Full Stack
 
-- [Decimal](https://github.com/decimalfinance/decimal) - Accounts payable with AI agents built into the work. It reads each vendor bill, investigates duplicates and figures that don't add up, routes the bill through approval rules the admins draw, and posts it to QuickBooks or Xero once it's approved. A person checks every bill.
 - [Exness](https://github.com/fuyofulo/exness) - Real-time trading exchange for CFD trading with leverage, automated liquidation, and stop-loss / take-profit execution, built around Redis Streams.
 - [Booking System](https://github.com/fuyofulo/booking-system) - Full-stack booking platform with reservation management, scheduling, and a custom MCP server.
 - [Room Chat](https://github.com/fuyofulo/chat-application) - Real-time chat application with rooms for instant messaging.
