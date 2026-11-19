@@ -1,12 +1,11 @@
 Hey, I'm Zaid. I've built projects across distributed systems, real-time indexers, trading systems, and Solana programs.
-Currently exploring fintech and accounts payable with **[Decimal](https://decimal.finance)**, an AI-powered AP product built on Solana.
+Currently exploring fintech and accounts payable with **[Decimal](https://github.com/decimalfinance/decimal)**, an AI-powered AP product.
 
 - Solana India Fellowship 2025 (Superteam India), graduated top 20
 - Rektoff Solana Security Bootcamp, strongest audit report in cohort 3
 
 ## Solana
 
-- [Decimal](https://github.com/decimalfinance/decimal) - AI-powered accounts payable. AI reads vendor invoices into payment orders and pays them in USDC from the team's Squads v4 multisig: within policy through spending limits, outside it through proposals. Payment rules are enforced on-chain, not in the backend. Live on devnet at [decimal.finance](https://decimal.finance).
 - [Meteora DLMM Indexer](https://github.com/fuyofulo/meteora_dlmm_indexer) - Real-time Solana DLMM data platform: Yellowstone ingestion, IDL-driven decoding, ClickHouse event storage, Redis stream signaling, and a Rust backend powering live analytics.
 - [Hedge Fund Solana Program](https://github.com/fuyofulo/hedgefund-as-a-service) - Anchor program for pooled on-chain capital management: deposits, NAV-based shares, and strategy-driven trading with whitelists and keeper execution.
 - [PumpSwap Trades Indexer](https://github.com/fuyofulo/pumpswap-trades-indexer) - Rust indexer that subscribes to PumpSwap activity over Yellowstone gRPC, decodes buys and sells by instruction discriminator, and computes live token prices from pool reserves.
@@ -18,6 +17,7 @@ Currently exploring fintech and accounts payable with **[Decimal](https://decima
 
 ## Full Stack
 
+- [Decimal](https://github.com/decimalfinance/decimal) - Accounts payable with AI agents built into the work. It reads each vendor bill, investigates duplicates and figures that don't add up, routes the bill through approval rules the admins draw, and posts it to QuickBooks or Xero once it's approved. A person checks every bill.
 - [Exness](https://github.com/fuyofulo/exness) - Real-time trading exchange for CFD trading with leverage, automated liquidation, and stop-loss / take-profit execution, built around Redis Streams.
 - [Booking System](https://github.com/fuyofulo/booking-system) - Full-stack booking platform with reservation management, scheduling, and a custom MCP server.
 - [Room Chat](https://github.com/fuyofulo/chat-application) - Real-time chat application with rooms for instant messaging.
